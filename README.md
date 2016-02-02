@@ -1,2 +1,2 @@
 # blogposts
-Backups of my blog posts
+This space is just a backup of my blog posts
